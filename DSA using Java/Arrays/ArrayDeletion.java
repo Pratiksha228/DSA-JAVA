@@ -1,4 +1,5 @@
-package JAVA.Arrays;
+//Replace  all JAVA.Arrays packages to Arrays in each file
+package Arrays;
 public class ArrayDeletion {
     //function to search a key to be deleted
     static int deleteElementExample(int arr[], int n, int key){
